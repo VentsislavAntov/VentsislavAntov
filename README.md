@@ -1,9 +1,7 @@
 ### Hi there 👋. I am a fullstack software engineer exploring new technologies every day.
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VentsislavAntov&theme=dark)](https://git.io/streak-stats)
 Here are some stats:
 </br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VentsislavAntov)](https://git.io/streak-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VentsislavAntov&theme=radical&count_private=true&langs_count=10&hide_border=true&layout=compact&include_all_commits=true" alt="Top Languages Used" />
 
