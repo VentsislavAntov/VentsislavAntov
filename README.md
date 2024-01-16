@@ -5,6 +5,8 @@ Here are some stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VentsislavAntov&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VentsislavAntov)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VentsislavAntov&theme=radical&count_private=true&langs_count=10&hide_border=true&layout=compact&include_all_commits=true" alt="Top Languages Used" />
 
 ## Contact Me 🤝
