@@ -3,9 +3,9 @@
 Here are some stats:
 </br>
 
-<img align="center" src="https://streak-stats.demolab.com?user=VentsislavAntov&theme=dark&exclude_days=Sun%2CSat" alt="My github stats" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VentsislavAntov&theme=radical&count_private=true&langs_count=10&hide_border=true&layout=compact&include_all_commits=true" alt="Top Languages Used" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VentsislavAntov&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Ventsislav's GitHub Stats" />
 
 ## Contact Me 🤝
 
