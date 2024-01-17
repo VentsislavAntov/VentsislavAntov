@@ -1,5 +1,5 @@
 ### Hi there 👋. I am a fullstack software engineer exploring new technologies every day.
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 Here are some stats:
 </br>
 
