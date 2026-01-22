@@ -4,6 +4,8 @@ Here are some stats:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VentsislavAntov&theme=dark&hide_border=true&cache_seconds=21600)
 
+![Metrics](./github-metrics.svg)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VentsislavAntov&theme=radical&count_private=true&langs_count=20&hide_border=true&layout=compact&include_all_commits=true)
 
 ## Contact Me 🤝
