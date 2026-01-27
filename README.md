@@ -2,6 +2,8 @@
 
 Here are some stats:
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VentsislavAntov&theme=react-dark&hide_border=true)
+
 ![Metrics](./github-metrics.svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VentsislavAntov&theme=radical&count_private=true&langs_count=20&hide_border=true&layout=compact&include_all_commits=true)
