@@ -2,7 +2,9 @@
 
 Here are some stats..
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VentsislavAntov&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VentsislavAntov&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VentsislavAntov&theme=react-dark&hide_border=true)
 
