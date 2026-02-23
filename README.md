@@ -1,8 +1,8 @@
 ### Hi there 👋 I am a fullstack software engineer exploring new technologies every day.
 
-Here are some stats:
+Here are some stats..
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VentsislavAntov&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VentsislavAntov&layout=compact&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VentsislavAntov&theme=react-dark&hide_border=true)
 
