@@ -2,8 +2,6 @@
 
 Here are some stats..
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VentsislavAntov&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VentsislavAntov&theme=react-dark&hide_border=true)
 
 ## Contact Me 🤝
