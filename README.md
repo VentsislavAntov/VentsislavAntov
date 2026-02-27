@@ -10,6 +10,8 @@ Here are some stats..
 
 ![Snake animation](https://github.com/VentsislavAntov/VentsislavAntov/blob/output/github-contribution-grid-snake.svg)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VentsislavAntov&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VentsislavAntov&theme=react-dark&hide_border=true)
 
 ## Contact Me 🤝
