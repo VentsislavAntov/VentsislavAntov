@@ -8,6 +8,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VentsislavAntov&theme=react-dark&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VentsislavAntov&layout=compact&theme=dark&hide_border=true)
 ---
 
 ## 🤝 Contact Me
