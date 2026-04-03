@@ -8,7 +8,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VentsislavAntov&theme=react-dark&hide_border=true)
 
-![Snake animation](https://raw.githubusercontent.com/VentsislavAntov/VentsislavAntov/output/github-contribution-grid-snake.svg)---
+![Snake animation](https://raw.githubusercontent.com/VentsislavAntov/VentsislavAntov/output/github-contribution-grid-snake.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VentsislavAntov&color=blue&style=flat)
 
