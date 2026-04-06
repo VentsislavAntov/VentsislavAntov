@@ -1,4 +1,4 @@
-### Hi there 👋 I am a fullstack software engineer exploring new technologies every day. Here is some stats about me:
+### Hi there 👋 I am a fullstack software engineer exploring new technologies every day. Here are some stats about me:
 
 ---
 
