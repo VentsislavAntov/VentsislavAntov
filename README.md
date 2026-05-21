@@ -4,10 +4,6 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VentsislavAntov&theme=dark&hide_border=true&layout=compact)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VentsislavAntov&theme=dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=VentsislavAntov&theme=dark&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VentsislavAntov&theme=react-dark&hide_border=true)
