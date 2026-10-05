@@ -1,4 +1,6 @@
-### Hi there 👋 I am a fullstack software engineer exploring new technologies every day. Here are some stats about me:
+### Hi there 👋
+
+I am a full-stack software engineer building scalable web applications with React, TypeScript and Node.js. I enjoy working across the stack, from frontend architecture and developer tooling to APIs, data pipelines and cloud services.
 
 ---
 
@@ -8,6 +10,8 @@
   <img height="180em" src="https://streak-stats.demolab.com?user=VentsislavAntov&theme=dark&hide_border=true" />
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VentsislavAntov&layout=compact&theme=tokyonight&hide_border=true&custom_title=Top%20Languages%20(Private%20Repos)" />
 </p>
+
+![Ventsislav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VentsislavAntov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 <!--
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VentsislavAntov&theme=react-dark&hide_border=true)
