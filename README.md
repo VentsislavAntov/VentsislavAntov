@@ -11,11 +11,7 @@ I am a full-stack software engineer building scalable web applications with Reac
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VentsislavAntov&layout=compact&theme=tokyonight&hide_border=true&custom_title=Top%20Languages%20(Private%20Repos)" />
 </p>
 
-![Ventsislav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VentsislavAntov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-<!--
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VentsislavAntov&theme=react-dark&hide_border=true)
--->
 
 ![Snake animation](https://raw.githubusercontent.com/VentsislavAntov/VentsislavAntov/output/github-contribution-grid-snake.svg)
 
