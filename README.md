@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full-stack software engineer building scalable web applications with React, TypeScript and Node.js. I enjoy working across the stack, from frontend architecture and developer tooling to APIs, data pipelines and cloud services.
+I am a full-stack software engineer building scalable web applications with React, TypeScript, Node.js and a bunch of other stuff. I enjoy working across the stack, from frontend architecture and developer tooling to APIs, data pipelines and cloud services.
 
 ---
 
