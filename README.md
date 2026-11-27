@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full-stack software engineer leveraging AI tools and building scalable web applications with React, TypeScript, Node.js and a bunch of other cool stuff. I enjoy working across the stack, from frontend architecture and developer tooling to APIs, data pipelines, scripts, devops, MCPs, cloud services and many other things.
+I am a full-stack software engineer leveraging AI tools and building scalable web applications with React, TypeScript, Node.js, Python and a bunch of other cool stuff. I enjoy working across the stack, from frontend architecture and developer tooling to APIs, data pipelines, scripts, devops, MCPs, cloud services and many other things.
 
 ---
 
